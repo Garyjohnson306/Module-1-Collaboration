@@ -43,7 +43,7 @@ h4 {
     width: 100%;
 }
 
-.top-menu
+.top-menu,
 .top-menu:hover,
 .top-menu:visited {
     color: #ffffff;
@@ -77,4 +77,20 @@ h4 {
 .btn-secondary:hover {
     color: #FFFFFF;
     background-color: #C25100;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
+#logout {
+    font-family: 'Lobster', cursive;
+}
+
+small a,
+small a:hover,
+small a:visited {
+    font-size: 15pt;
+    color: #ffffff;
+    text-decoration: none;
 }
